@@ -14,4 +14,5 @@ scoop-chinese {alias}
 ## 支持的软件列表
 ```
 ldap-admin
+android-studio
 ```
