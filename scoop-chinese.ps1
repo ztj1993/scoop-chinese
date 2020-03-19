@@ -92,4 +92,14 @@ function WebStorm()
     Copy-Item "$src" "$dest"
 }
 
+function winscp()
+{
+    scoop install winscp@5.17.2
+
+    $src = "${chinese_dir}\WinSCP.chs"
+    $dest = "$( scoop prefix winscp )\WinSCP.chs"
+
+    Copy-Item "$src" "$dest"
+}
+
 & $app

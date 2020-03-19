@@ -11,7 +11,8 @@
     "https://github.com/pingfangx/jetbrains-in-chinese/raw/master/IntelliJIDEA/resources_zh_CN_IntelliJIDEA_2019.3_r1.jar",
     "https://github.com/pingfangx/jetbrains-in-chinese/raw/master/WebStorm/resources_zh_CN_WebStorm_2019.3_r1.jar",
     "https://github.com/pingfangx/jetbrains-in-chinese/raw/master/PyCharm/resources_zh_CN_PyCharm_2019.3_r1.jar",
-    "https://github.com/pingfangx/jetbrains-in-chinese/raw/master/WebStorm/resources_zh_CN_WebStorm_2019.3_r1.jar"
+    "https://github.com/pingfangx/jetbrains-in-chinese/raw/master/WebStorm/resources_zh_CN_WebStorm_2019.3_r1.jar",
+    "https://winscp.net/translations/dll/5.17.2/chs.zip#/dl.7z"
   ],
   "bin": "scoop-chinese.ps1"
 }
