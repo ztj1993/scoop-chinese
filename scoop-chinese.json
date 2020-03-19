@@ -2,7 +2,8 @@
   "homepage": "https://github.com/ztj1993/scoop-chinese",
   "version": "2020.03.19",
   "url": [
-    "https://github.com/ztj1993/scoop-chinese/raw/master/scoop-chinese.ps1"
+    "https://github.com/ztj1993/scoop-chinese/raw/master/scoop-chinese.ps1",
+    "https://github.com/ztj1993/files/raw/master/soft/ldap-admin/ldap-admin-chinese-utf8-1.6.llf"
   ],
   "bin": "scoop-chinese.ps1"
 }
