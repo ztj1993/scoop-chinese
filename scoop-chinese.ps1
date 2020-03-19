@@ -27,7 +27,7 @@ function CLion()
     scoop install CLion-portable@2019.3.5-193.6911.21
 
     $src = "${chinese_dir}\resources_zh_CN_CLion_2019.3_r1.jar"
-    $dest = "$( scoop prefix CLion-portable )\lib\resources_zh_CN.jar"
+    $dest = "$( scoop prefix CLion-portable )\IDE\lib\resources_zh_CN.jar"
 
     Copy-Item "$src" "$dest"
 }
@@ -37,7 +37,7 @@ function DataGrip()
     scoop install DataGrip-portable@2019.3.4-193.6911.16
 
     $src = "${chinese_dir}\resources_zh_CN_DataGrip_2019.3_r1.jar"
-    $dest = "$( scoop prefix DataGrip-portable )\lib\resources_zh_CN.jar"
+    $dest = "$( scoop prefix DataGrip-portable )\IDE\lib\resources_zh_CN.jar"
 
     Copy-Item "$src" "$dest"
 }
@@ -47,7 +47,7 @@ function GoLand()
     scoop install GoLand-portable@2019.3.3-193.6494.61
 
     $src = "${chinese_dir}\resources_zh_CN_GoLand_2019.3_r1.jar"
-    $dest = "$( scoop prefix GoLand-portable )\lib\resources_zh_CN.jar"
+    $dest = "$( scoop prefix GoLand-portable )\IDE\lib\resources_zh_CN.jar"
 
     Copy-Item "$src" "$dest"
 }
@@ -57,7 +57,7 @@ function IntelliJ-IDEA-Ultimate()
     scoop install IntelliJ-IDEA-Ultimate-portable@2019.3.4-193.6911.18
 
     $src = "${chinese_dir}\resources_zh_CN_IntelliJIDEA_2019.3_r1.jar"
-    $dest = "$( scoop prefix IntelliJ-IDEA-Ultimate-portable )\lib\resources_zh_CN.jar"
+    $dest = "$( scoop prefix IntelliJ-IDEA-Ultimate-portable )\IDE\lib\resources_zh_CN.jar"
 
     Copy-Item "$src" "$dest"
 }
@@ -67,7 +67,7 @@ function PhpStorm()
     scoop install PhpStorm-portable@2019.3.4-193.6911.26
 
     $src = "${chinese_dir}\resources_zh_CN_WebStorm_2019.3_r1.jar"
-    $dest = "$( scoop prefix PhpStorm-portable )\lib\resources_zh_CN.jar"
+    $dest = "$( scoop prefix PhpStorm-portable )\IDE\lib\resources_zh_CN.jar"
 
     Copy-Item "$src" "$dest"
 }
@@ -77,7 +77,7 @@ function PyCharm-Professional()
     scoop install PyCharm-Professional-portable@2019.3.4-193.6911.25
 
     $src = "${chinese_dir}\resources_zh_CN_PyCharm_2019.3_r1.jar"
-    $dest = "$( scoop prefix PyCharm-Professional-portable )\lib\resources_zh_CN.jar"
+    $dest = "$( scoop prefix PyCharm-Professional-portable )\IDE\lib\resources_zh_CN.jar"
 
     Copy-Item "$src" "$dest"
 }
@@ -87,7 +87,7 @@ function WebStorm()
     scoop install WebStorm-portable@2019.3.4-193.6911.28
 
     $src = "${chinese_dir}\resources_zh_CN_WebStorm_2019.3_r1.jar"
-    $dest = "$( scoop prefix WebStorm-portable )\lib\resources_zh_CN.jar"
+    $dest = "$( scoop prefix WebStorm-portable )\IDE\lib\resources_zh_CN.jar"
 
     Copy-Item "$src" "$dest"
 }
