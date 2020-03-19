@@ -1,0 +1,8 @@
+{
+  "homepage": "https://github.com/ztj1993/scoop-chinese",
+  "version": "2020.03.19",
+  "url": [
+    "https://github.com/ztj1993/scoop-chinese/raw/master/scoop-chinese.ps1"
+  ],
+  "bin": "scoop-chinese.ps1"
+}
