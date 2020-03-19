@@ -22,4 +22,74 @@ function android-studio()
     Copy-Item "$src" "$dest"
 }
 
+function CLion()
+{
+    scoop install CLion-portable@2019.3.5-193.6911.21
+
+    $src = "${chinese_dir}\resources_zh_CN_CLion_2019.3_r1.jar"
+    $dest = "$( scoop prefix android-studio )\lib\resources_zh_CN.jar"
+
+    Copy-Item "$src" "$dest"
+}
+
+function DataGrip()
+{
+    scoop install DataGrip-portable@2019.3.4-193.6911.16
+
+    $src = "${chinese_dir}\resources_zh_CN_DataGrip_2019.3_r1.jar"
+    $dest = "$( scoop prefix android-studio )\lib\resources_zh_CN.jar"
+
+    Copy-Item "$src" "$dest"
+}
+
+function GoLand()
+{
+    scoop install GoLand-portable@2019.3.3-193.6494.61
+
+    $src = "${chinese_dir}\resources_zh_CN_GoLand_2019.3_r1.jar"
+    $dest = "$( scoop prefix android-studio )\lib\resources_zh_CN.jar"
+
+    Copy-Item "$src" "$dest"
+}
+
+function IntelliJ-IDEA-Ultimate()
+{
+    scoop install IntelliJ-IDEA-Ultimate-portable@2019.3.4-193.6911.18
+
+    $src = "${chinese_dir}\resources_zh_CN_IntelliJIDEA_2019.3_r1.jar"
+    $dest = "$( scoop prefix android-studio )\lib\resources_zh_CN.jar"
+
+    Copy-Item "$src" "$dest"
+}
+
+function PhpStorm()
+{
+    scoop install PhpStorm-portable@2019.3.4-193.6911.26
+
+    $src = "${chinese_dir}\resources_zh_CN_WebStorm_2019.3_r1.jar"
+    $dest = "$( scoop prefix android-studio )\lib\resources_zh_CN.jar"
+
+    Copy-Item "$src" "$dest"
+}
+
+function PyCharm-Professional()
+{
+    scoop install PyCharm-Professional-portable@2019.3.4-193.6911.25
+
+    $src = "${chinese_dir}\resources_zh_CN_PyCharm_2019.3_r1.jar"
+    $dest = "$( scoop prefix android-studio )\lib\resources_zh_CN.jar"
+
+    Copy-Item "$src" "$dest"
+}
+
+function WebStorm()
+{
+    scoop install WebStorm-portable@2019.3.4-193.6911.28
+
+    $src = "${chinese_dir}\resources_zh_CN_WebStorm_2019.3_r1.jar"
+    $dest = "$( scoop prefix android-studio )\lib\resources_zh_CN.jar"
+
+    Copy-Item "$src" "$dest"
+}
+
 & $app

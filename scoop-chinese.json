@@ -4,7 +4,14 @@
   "url": [
     "https://github.com/ztj1993/scoop-chinese/raw/master/scoop-chinese.ps1",
     "https://github.com/ztj1993/files/raw/master/soft/ldap-admin/ldap-admin-chinese-utf8-1.6.llf",
-    "https://github.com/pingfangx/jetbrains-in-chinese/raw/master/AndroidStudio/resources_zh_CN_AndroidStudio_3.5_r1.jar"
+    "https://github.com/pingfangx/jetbrains-in-chinese/raw/master/AndroidStudio/resources_zh_CN_AndroidStudio_3.5_r1.jar",
+    "https://github.com/pingfangx/jetbrains-in-chinese/raw/master/CLion/resources_zh_CN_CLion_2019.3_r1.jar",
+    "https://github.com/pingfangx/jetbrains-in-chinese/raw/master/DataGrip/resources_zh_CN_DataGrip_2019.3_r1.jar",
+    "https://github.com/pingfangx/jetbrains-in-chinese/raw/master/GoLand/resources_zh_CN_GoLand_2019.3_r1.jar",
+    "https://github.com/pingfangx/jetbrains-in-chinese/raw/master/IntelliJIDEA/resources_zh_CN_IntelliJIDEA_2019.3_r1.jar",
+    "https://github.com/pingfangx/jetbrains-in-chinese/raw/master/WebStorm/resources_zh_CN_WebStorm_2019.3_r1.jar",
+    "https://github.com/pingfangx/jetbrains-in-chinese/raw/master/PyCharm/resources_zh_CN_PyCharm_2019.3_r1.jar",
+    "https://github.com/pingfangx/jetbrains-in-chinese/raw/master/WebStorm/resources_zh_CN_WebStorm_2019.3_r1.jar"
   ],
   "bin": "scoop-chinese.ps1"
 }

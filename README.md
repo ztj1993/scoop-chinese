@@ -15,4 +15,11 @@ scoop-chinese {alias}
 ```
 ldap-admin
 android-studio
+CLion
+DataGrip
+GoLand
+IntelliJ-IDEA-Ultimate
+PhpStorm
+PyCharm-Professional
+WebStorm
 ```
